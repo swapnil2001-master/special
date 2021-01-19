@@ -74,10 +74,16 @@ font-family: Montserrat;
 .sic{
   font-size: 25px;
 }
+.footer p {
+  font-size: 25px;
+}
+.footer{
+  height: 100px;
+}
 .kemo{
   width: 400px;
    height: 400px;
-   margin-left: 115px;
+   margin-left: 125px;
    margin-bottom: 1px;
 }
 .as{
