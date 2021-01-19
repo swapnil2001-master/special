@@ -69,21 +69,19 @@ font-family: Montserrat;
 }
 @media (max-width:1028px){
 .demo{
-  font-size: 25px;
+  font-size: 35px;
 }
 .sic{
-  font-size: 15px;
+  font-size: 25px;
 }
 .kemo{
   width: 400px;
    height: 400px;
-   margin-left: 50px;
+   margin-left: 85px;
    margin-bottom: 1px;
 }
 .as{
   text-align: center;
 }
-.aa{
-  size: 25px;
-}
+
 }
