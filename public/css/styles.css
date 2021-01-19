@@ -75,12 +75,15 @@ font-family: Montserrat;
   font-size: 15px;
 }
 .kemo{
-  width: 200px;
-   height: 200px;
-   margin-left: 150px;
+  width: 400px;
+   height: 400px;
+   margin-left: 50px;
    margin-bottom: 1px;
 }
 .as{
   text-align: center;
+}
+.aa{
+  size: 25px;
 }
 }
