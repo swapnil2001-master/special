@@ -67,3 +67,20 @@ font-family: Montserrat;
 	font-size: 12px;
   color: #fff;
 }
+@media (max-width:1028px){
+.demo{
+  font-size: 25px;
+}
+.sic{
+  font-size: 15px;
+}
+.kemo{
+  width: 200px;
+   height: 200px;
+   margin-left: 150px;
+   margin-bottom: 1px;
+}
+.as{
+  text-align: center;
+}
+}
