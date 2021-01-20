@@ -41,6 +41,9 @@ font-family: Montserrat;
     padding-bottom: 70px;
 
 }
+.sic{
+  font-size: 13px;
+}
 .navbar {
     background-color: #a3d2ca;
     padding-top: 15px;
@@ -74,7 +77,7 @@ font-family: Montserrat;
 	margin-top: 25px;
 	font-size: 12px;
   color: #fff;
-  padding-right: 90px;
+text-align: center;
 }
 
 @media (max-width:1028px){
