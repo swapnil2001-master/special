@@ -58,7 +58,9 @@ font-family: Montserrat;
 .footer-padding {
 	padding-bottom: 60px;
 }
-
+.ma{
+  font-size: 20px;
+}
 .footer {
 	position: absolute;
 	text-align: center;
@@ -90,7 +92,7 @@ font-family: Montserrat;
 .kemo{
   width: 400px;
    height: 400px;
-   margin-left: 125px;
+   margin-left: 130px;
    margin-bottom: 1px;
 }
 .as{
