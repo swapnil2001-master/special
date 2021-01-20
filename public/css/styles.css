@@ -8,13 +8,15 @@ html {
    height: 350px;
    margin-left: 345px;
    margin-bottom: 1px;
+   position: relative;
 }
 .as{
-  padding-top: 15px;
-  padding-left: 15px;
-  padding-bottom: 15px;
+  padding-top: 60px;
+  padding-left: 8px;
+  padding-bottom: 1px;
   padding-right: 15px;
   font-size: 60px;
+  color: #a3d2ca;
   font-family: Montserrat;
 }
 .navi{
@@ -92,6 +94,7 @@ font-family: Montserrat;
    margin-bottom: 1px;
 }
 .as{
+  padding-top: 100px;
   text-align: center;
 }
 .ma{
